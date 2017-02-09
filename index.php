@@ -9,8 +9,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
     
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Roboto+Slab:300" rel="stylesheet">
     <!-- Local style sheet -->
     <link rel="stylesheet" href="/static/style.css"/> 
     
@@ -20,10 +19,10 @@
 <body>
     <div class="container-fluid">
         <h1>Samantha A. Maislin</h1>
-    
+        <h2>About Me</h2>
         <p>
-            <img src="/images/Pats.jpg" alt="Samantha Maislin picture" class="leftalign">
-            <h2>About Me</h2>
+            <img src="/images/Pats.jpg" alt="Samantha Maislin picture" class="photo">
+
              <div class="text">I am a Product Manager/Product Owner for a financial software company. We make and sell software for
                 financial institutions to help them project income and meet regulatory requirements. I have always been interested in Computer
                 Science since I took a year's worth of Java in college (over 10 years ago). At my company, I have the unique experience to work directly
