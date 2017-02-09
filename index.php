@@ -7,7 +7,8 @@
     <!-- JQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Roboto+Slab:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
     <!-- Local style sheet -->
     <link rel="stylesheet" href="/static/style.css"/> 
     
