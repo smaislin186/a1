@@ -1,38 +1,43 @@
 body {
-    background: whitesmoke;
+    background: #E9E7DA;
 }
 
 h1, p{
-    color:black;
+    color:#CDA34F;
     justify-content: center;
     text-align: center;
     font-family: 'Roboto', sans-serif;
 }
 
 h2{
-    color:black;
+    color: #636B46;
     text-align: left;
     font-family: 'Roboto', sans-serif;
 }
 
 h3{
-    color:black;
+    color:#636B46;
     text-align: center;
     font-family: 'Roboto', sans-serif;
 }
 
 .leftalign {
     float: left;
-    padding: 0 20px 20px 0;
+    padding: 0 0 0 0;
+    border: 5px solid #ffffff;
 }
 
 p{
     clear:left;
+    margin: 0 0 0% 5%;
 }
 
 .text{
+    color:#373737;
+    padding: 10px 10px 5% 5%;
     font-family: 'Roboto', sans-serif;
 }
 .quotes{
-    margin: 0 0 10% 10%;
+    color:#CDA34F;
+    margin: 0 0 5% 5%;
 }
